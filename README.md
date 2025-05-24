@@ -9,33 +9,32 @@ Explore the projects below to see how I apply practical techniques to secure sys
 
 ## 🔐 Password Cracking & Hash Analysis
 
- - Used John the Ripper and hashcat to identify and crack various password hashes.
+ - Used **John the Ripper**, **hashcat**, and **Kali Linux** environments to identify and crack various passwords.
  - Analyzed password complexity and vulnerability to common cracking techniques.
  - Developed recommendations for stronger password policies to enhance security posture.
 
 ## 🌐 Web Application Exploitation (DVWA)
 
- - Executed brute-force login attacks and session manipulation using Burp Suite and Repeater.
+ - Executed brute-force login attacks and session manipulation using Burp Suite, Hydra, and Repeater. Performed host discovery and reconnaissance with Nmap prior to exploitation.
  - Exploited common web application vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS).
  - Documented mitigation strategies to improve application security and prevent exploitation.
 
 ## 🖥️ Active Directory & Lateral Movement
 
- - Emulated Windows domain environments to practice lateral movement using PSExec, WMI, and Pass-the-Hash techniques.
+ - Emulated Windows domain environments to practice lateral movement using PSExec, WMI, and Pass-the-Hash techniques. Also explored SSH key-based access and credential reuse on Linux systems to simulate cross-platform attack paths.
  - Mapped privilege escalation and attack paths using the MITRE ATT&CK framework.
  - Gained practical insight into detecting and defending against lateral movement attacks within enterprise networks.
 
 
 ## 🧰 Tools & Skills
 
-Throughout these projects, I applied a broad range of cybersecurity tools, methodologies, and frameworks, including vulnerability assessment, penetration testing, and defensive monitoring techniques. Key proficiencies include:
+Throughout these projects, I applied a broad range of cybersecurity tools, methodologies, and frameworks, including vulnerability assessment, penetration testing, system hardening, and defensive monitoring techniques. Key proficiencies include:
 
-- **Tools:** Burp Suite, Metasploit, John the Ripper, Hydra, Wireshark, Nmap, PowerShell  
-- **Concepts:** Credential Attacks, Privilege Escalation, Network Enumeration, Red & Blue Team Operations  
-- **Frameworks:** MITRE ATT&CK, OWASP Top 10  
+- **Tools:** Kali Linux, Burp Suite, Metasploit, MSFvenom, John the Ripper, hashcat, Hydra, Nmap, Wireshark, PowerShell, Event Viewer, Snort IDS, AIDE, Sysinternals Suite, Netcat, Hash-Identifier  
+- **Concepts:** Credential Attacks, Privilege Escalation, Lateral Movement, Network Enumeration, Red & Blue Team Operations, Defense in Depth  
+- **Frameworks:** MITRE ATT&CK, OWASP Top 10
 
-
-
+> _Currently exploring additional tools such as Impacket and tcpdump to deepen my expertise in offensive operations and packet analysis._
 
 
 ## 🔍 Selected Project Showcases
@@ -44,7 +43,7 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 - Developed a comprehensive runbook for setting up Windows workstations for new hires at a fictional company.
 - Included step-by-step processes for domain joining, Active Directory user and group creation, Group Policy Object (GPO) configuration, shared folder setup, and login script deployment.
 - Implemented security and compliance checks through Group Policy restrictions and Event Viewer log auditing.
-- Created PowerShell scripts to automate running service listings and software inventory collection for auditing purposes.
+- Created PowerShell scripts to automate running service listings and software inventory collection for auditing purposes. Included Event Viewer log analysis and optional Wireshark packet captures to validate network configurations and monitor login behavior.
 - Demonstrates ability to create clear, repeatable IT processes using Windows Server administration tools in a practical context.
 
 
