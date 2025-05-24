@@ -35,10 +35,6 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 - **Frameworks:** MITRE ATT&CK, OWASP Top 10  
 
 
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/nicholas-stevanovic-6383561a0)
-- [GitHub](https://github.com/nmstevanovic)
-
 
 
 
@@ -73,3 +69,6 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 - Defined administrative policies and physical security controls to secure user and device access.
 
 
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/nicholas-stevanovic-6383561a0)
+- [GitHub](https://github.com/nmstevanovic)
