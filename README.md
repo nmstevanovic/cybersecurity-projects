@@ -1,6 +1,6 @@
 # Cybersecurity Projects Portfolio
 
-This repository highlights hands-on projects and skills developed through the Cybersecurity Bootcamp at Fullstack Academy (University of Illinois Chicago). These labs simulate real-world offensive and defensive security scenarios using industry-standard tools.
+Hi, I’m Nicholas Stevanovic, a Cybersecurity Bootcamp graduate from Fullstack Academy (University of Illinois Chicago). This repository showcases my hands-on projects and skills in offensive and defensive security using industry-standard tools.
 
 ## Featured Projects
 
@@ -22,6 +22,22 @@ This repository highlights hands-on projects and skills developed through the Cy
 - **Concepts:** Credential Attacks, Privilege Escalation, Network Enumeration, Red & Blue Team Ops  
 - **Frameworks:** MITRE ATT&CK, OWASP Top 10
 
-## Connect with Me
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/nicholas-stevanovic-6383561a0)
+- [GitHub](https://github.com/nmstevanovic)
 
-📫 [LinkedIn – Nicholas Stevanovic](https://linkedin.com/in/nicholas-stevanovic-6383561a0)
+
+
+
+
+
+
+
+## 🖥️ IT Pre-Onboarding Runbook (Windows Workstation Setup)
+
+- Created a detailed runbook to standardize Windows workstation setup for new hires at a fictional company.
+- Covered domain joining, Active Directory user and group creation, GPO configuration, shared folder setup, login script deployment, and PowerShell auditing.
+- Ensured security and compliance through Group Policy restrictions and Event Viewer login verification.
+- Developed scripts to automate service listing and software inventory tasks for auditing.
+
+*This project highlights my ability to create clear, repeatable IT processes and use Windows Server administration tools in a real-world context.*
