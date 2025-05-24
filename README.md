@@ -1,4 +1,4 @@
-# Cybersecurity Projects Portfolio
+## Cybersecurity Projects Portfolio
 
 Hello! I’m Nicholas Stevanovic, a recent graduate of Fullstack Academy’s Cybersecurity Bootcamp through the University of Illinois Chicago. This portfolio showcases my applied experience in both offensive and defensive security, featuring projects where I’ve used industry-standard tools and frameworks to solve real-world challenges.
 
