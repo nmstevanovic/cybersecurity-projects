@@ -38,6 +38,7 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 
 
 ## 🔍 Selected Project Showcases
+
 ## 🖥️ IT Pre-Onboarding Runbook (Windows Workstation Setup)
 
 - Developed a comprehensive runbook for setting up Windows workstations for new hires at a fictional company.
@@ -47,7 +48,7 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 - Demonstrates ability to create clear, repeatable IT processes using Windows Server administration tools in a practical context.
 
 
-## 🛡️ Enhancing Cybersecurity Posture: Lessons from a Log Access Disruption
+## 🔒 Enhancing Cybersecurity Posture: Lessons from a Log Access Disruption
 
 - Investigated and resolved log access disruption in StackFull Software’s Splunk system caused by a misconfigured config.conf file.
 - Diagnosed security risks due to overly permissive file permissions and verified file integrity using MD5 hashing before and after remediation.
