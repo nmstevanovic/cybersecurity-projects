@@ -42,7 +42,7 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 
 
 
-## 🔍 Selected Project Showcases:
+## 🔍 Selected Project Showcases
 
 
 
