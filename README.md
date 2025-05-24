@@ -43,9 +43,6 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 
 
 ## 🔍 Selected Project Showcases
-
-
-
 ## 🖥️ IT Pre-Onboarding Runbook (Windows Workstation Setup)
 
 - Developed a comprehensive runbook for setting up Windows workstations for new hires at a fictional company.
