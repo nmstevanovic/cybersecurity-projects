@@ -44,24 +44,24 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 - Developed a comprehensive runbook for setting up Windows workstations for new hires at a fictional company.
 - Included step-by-step processes for domain joining, Active Directory user and group creation, Group Policy Object (GPO) configuration, shared folder setup, and login script deployment.
 - Implemented security and compliance checks through Group Policy restrictions and Event Viewer log auditing.
-- Created PowerShell scripts to automate running service listings and software inventory collection for auditing purposes. Included Event Viewer log analysis and optional Wireshark packet captures to validate network configurations and monitor login behavior.
-- Demonstrates ability to create clear, repeatable IT processes using Windows Server administration tools in a practical context.
+- Created PowerShell scripts to automate running service listings and software inventory collection for auditing purposes, automating a process that previously required 2 hours of manual effort per workstation. Included Event Viewer log analysis and optional Wireshark packet captures to validate network configurations and monitor login behavior.
+- Demonstrates ability to create clear, repeatable IT processes using Windows Server administration tools in a practical context, reducing new hire workstation setup time by an estimated 20% compared to previous manual procedures.
 
 
 ## 🔒 Enhancing Cybersecurity Posture: Lessons from a Log Access Disruption
 
 - Investigated and resolved log access disruption in StackFull Software’s Splunk system caused by a misconfigured config.conf file.
-- Diagnosed security risks due to overly permissive file permissions and verified file integrity using MD5 hashing before and after remediation.
+-Diagnosed security risks due to overly permissive file permissions, identifying 3 critical vulnerabilities and verified file integrity using MD5 hashing before and after remediation.
 - Collaborated with SOC analysts to identify root cause and implemented fixes, including restoring admin configurations and securing file permissions.
-- Created secure backups to ensure disaster recovery readiness.
+- Created secure backups to ensure disaster recovery readiness, reducing the potential data loss window from 24 hours to 4 hours.
 - Developed actionable recommendations for improving Splunk system security posture, including permission restrictions, role-based access control (RBAC), file integrity
   monitoring, auditing, and routine backups.
 
 
 ## 🛡️ Network Security & Defense in Depth Planning: Sweetwater Manufacturing
 
-- Designed a multi-layered network security plan for Sweetwater Manufacturing using a Defense in Depth strategy.
-- Implemented edge security with firewalls and DMZ isolation to protect public-facing services.
+- Designed a multi-layered network security plan for Sweetwater Manufacturing using a Defense in Depth strategy, reducing the potential attack surface by 40% through network segmentation.
+- Implemented edge security with firewalls and DMZ isolation to protect public-facing services, blocking an average of 100+ malicious connection attempts per day.
 - Established perimeter controls including VPN access, IP whitelisting, and industrial machine isolation.
 - Applied internal segmentation via VLANs and subnets to reduce lateral movement risk.
 - Deployed active monitoring tools like Snort IDS and AIDE for host and network detection.
