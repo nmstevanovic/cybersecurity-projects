@@ -30,8 +30,8 @@ Explore the projects below to see how I apply practical techniques to secure sys
 
 Throughout these projects, I applied a broad range of cybersecurity tools, methodologies, and frameworks, including vulnerability assessment, penetration testing, system hardening, and defensive monitoring techniques. Key proficiencies include:
 
-- **Tools:** Kali Linux, Burp Suite, Metasploit, MSFvenom, John the Ripper, hashcat, Hydra, Nmap, Wireshark, PowerShell, Event Viewer, Snort IDS, AIDE, Sysinternals Suite, Netcat, Hash-Identifier  
-- **Concepts:** Credential Attacks, Privilege Escalation, Lateral Movement, Network Enumeration, Red & Blue Team Operations, Defense in Depth  
+- **Tools:** Kali Linux, Burp Suite, Metasploit, MSFvenom, John the Ripper, hashcat, Hydra, Nmap, Wireshark, PowerShell, Event Viewer, Snort IDS, AIDE, Sysinternals Suite, Netcat, Hash-Identifier, and hasdump.  
+- **Concepts:** Credential Attacks, Privilege Escalation, Lateral Movement, Network Enumeration, Red & Blue Team Operations, Defense in Depth, and Pass the Hash.  
 - **Frameworks:** MITRE ATT&CK, OWASP Top 10
 
 > _Currently exploring additional tools such as Impacket and tcpdump to deepen my expertise in offensive operations and packet analysis._
