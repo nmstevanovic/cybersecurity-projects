@@ -71,14 +71,14 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 
 ## 🎯 Simulated Red Team Engagement
 
-- Conducted network reconnaissance using **Nmap** to map the environment and identify potential entry points.
-- Gained initial access to a Linux system via **SSH** based on discovered services.
+- Conducted network reconnaissance using Nmap to map the environment and identify potential entry points.
+- Gained initial access to a Linux system via SSH based on discovered services.
 - Performed information gathering on the Linux system, leading to the discovery of a password hash.
-- Successfully cracked the password hash using **John the Ripper** and dictionary attacks with standard wordlists on **Kali Linux**, revealing a weak password.
-- Leveraged the cracked credentials with the **Metasploit Framework** (`windows/smb/psexec` module) to achieve initial access on a Windows server.
-- Utilized **Meterpreter** to dump password hashes from the compromised Windows system.
-- Demonstrated lateral movement by employing the "Pass the Hash" technique within **Metasploit** to authenticate to a secondary Windows server using the obtained hashes.
-- On the final target, used **Meterpreter's** file search capabilities to locate and retrieve the contents of a sensitive file, demonstrating successful completion of the engagement.
+- Successfully cracked the password hash using John the Ripper and dictionary attacks with standard wordlists on Kali Linux, revealing a weak password.
+- Leveraged the cracked credentials with the Metasploit Framework (`windows/smb/psexec` module) to achieve initial access on a Windows server.
+- Utilized Meterpreter to dump password hashes from the compromised Windows system.
+- Demonstrated lateral movement by employing the "Pass the Hash" technique within Metasploit to authenticate to a secondary Windows server using the obtained hashes.
+- On the final target, used Meterpreter's file search capabilities to locate and retrieve the contents of a sensitive file, demonstrating successful completion of the engagement.
 
 
 
