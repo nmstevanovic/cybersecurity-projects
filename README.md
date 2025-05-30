@@ -34,7 +34,7 @@ Throughout these projects, I applied a broad range of cybersecurity tools, metho
 - **Concepts:** Credential Attacks, Privilege Escalation, Lateral Movement, Network Enumeration, Red & Blue Team Operations, Defense in Depth, and Pass the Hash.  
 - **Frameworks:** MITRE ATT&CK, OWASP Top 10
 
-> _Currently exploring additional tools such as Impacket and tcpdump to deepen my expertise in offensive operations and packet analysis._
+
 
 
 ## 🔍 Selected Project Showcases
